@@ -3,7 +3,7 @@ name: Create and Share Scratch Frontend
 on:
   push:
     branches:
-      - main # Change to 'master' if your default branch is named master
+      - main
 
 permissions:
   contents: write
